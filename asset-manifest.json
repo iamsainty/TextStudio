@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextStudio/static/css/main.f855e6bc.css",
+    "main.js": "/TextStudio/static/js/main.2a4755b3.js",
+    "static/js/592.7f72a991.chunk.js": "/TextStudio/static/js/592.7f72a991.chunk.js",
+    "index.html": "/TextStudio/index.html",
+    "main.f855e6bc.css.map": "/TextStudio/static/css/main.f855e6bc.css.map",
+    "main.2a4755b3.js.map": "/TextStudio/static/js/main.2a4755b3.js.map",
+    "592.7f72a991.chunk.js.map": "/TextStudio/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2a4755b3.js"
+  ]
+}
